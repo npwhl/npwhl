@@ -1,1 +1,11 @@
-![An about me banner with "i heart css" in an uncentered div, drawn in mspaint](https://github.com/npwhl/npwhl/blob/main/github-readme-lightmode.png)
+```
+ ('-. .-.   ('-.                                  ,---. 
+( OO )  / _(  OO)                                 |   |                               To Do: 
+,--. ,--.(,------.,--.      ,--.      .-'),-----. |   |       i'm natalie!            ---------
+|  | |  | |  .---'|  |.-')  |  |.-') ( OO'  .-.  '|   |       |˶˙ᵕ˙ )ﾉﾞ                - Order numpad PCB from manufacturer
+|   .|  | |  |    |  | OO ) |  | OO )/   |  | |  ||   |                                - Finish script for piggy-bank         ___&
+|       |(|  '--. |  |`-' | |  |`-' |\_) |  |\|  ||  .'                                - 10/100 Days of RTL                 e'^_ )
+|  .-.  | |  .--'(|  '---.'(|  '---.'  \ |  | |  |`--'             Toolkit:                                                   " "
+|  | |  | |  `---.|      |  |      |    `'  '-'  '.--.             ---------               
+`--' `--' `------'`------'  `------'      `-----' '--'             C, C++, Python, Verilog       VHDL, ROS🔨~('o'~)
+```
