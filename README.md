@@ -3,8 +3,8 @@
 ( OO )  / _(  OO)                                 |   |                       To Do: 
 ,--. ,--.(,------.,--.      ,--.      .-'),-----. |   |   i'm natalie!        ---------
 |  | |  | |  .---'|  |.-')  |  |.-') ( OO'  .-.  '|   |   |˶˙ᵕ˙ )ﾉﾞ           - Order numpad PCB from manufacturer
-|   .|  | |  |    |  | OO ) |  | OO )/   |  | |  ||   |                       - Finish script for piggy-bank       
-|       |(|  '--. |  |`-' | |  |`-' |\_) |  |\|  ||  .'                       - 3/100 Days of RTL            ___&              
+|   .|  | |  |    |  | OO ) |  | OO )/   |  | |  ||   |                       - Make KTANE Mini schematics       
+|       |(|  '--. |  |`-' | |  |`-' |\_) |  |\|  ||  .'                       - 4/100 Days of RTL            ___&              
 |  .-.  | |  .--'(|  '---.'(|  '---.'  \ |  | |  |`--'    Toolkit:                                          e'^_ )                     
 |  | |  | |  `---.|      |  |      |    `'  '-'  '.--.    ---------                                           " "
 `--' `--' `------'`------'  `------'      `-----' '--'    C, C++, Python, SystemVerilog     VHDL, ROS🔨~('o'~)
